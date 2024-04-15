@@ -2,33 +2,18 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>ProyectoDataWhereHouse_Vania_Benjamin</Name>
-    <LastWriteTime>2024-04-13T21:19:19.7011427Z</LastWriteTime>
+    <LastWriteTime>2024-04-15T02:43:21.1802139Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>02-InsertarDimCliente.dtsx</Name>
-      <LastWriteTime>2024-04-13T21:10:32.7493871Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
       <Name>01-InsertarDimProducto.dtsx</Name>
-      <LastWriteTime>2024-04-13T21:43:19.4179487Z</LastWriteTime>
+      <LastWriteTime>2024-04-15T05:50:49.4379874Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
-      <Name>03-InsertarDimEmpleado.dtsx</Name>
-      <LastWriteTime>2024-04-13T20:42:50.7037891Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
-      <Name>04-InsertarDimProveedor.dtsx</Name>
-      <LastWriteTime>2024-04-13T20:43:20.2999182Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
-      <Name>05-InsertarDimTiempo.dtsx</Name>
-      <LastWriteTime>2024-04-13T20:43:49.2168631Z</LastWriteTime>
+      <Name>Package1.dtsx</Name>
+      <LastWriteTime>2024-04-15T02:43:21.1538374Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
