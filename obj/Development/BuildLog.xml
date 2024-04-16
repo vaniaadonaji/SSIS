@@ -2,18 +2,43 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>ProyectoDataWhereHouse_Vania_Benjamin</Name>
-    <LastWriteTime>2024-04-15T02:43:21.1802139Z</LastWriteTime>
+    <LastWriteTime>2024-04-15T18:53:26.6421188Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>01-InsertarDimProducto.dtsx</Name>
-      <LastWriteTime>2024-04-15T05:50:49.4379874Z</LastWriteTime>
+      <Name>cargardimcliente.dtsx</Name>
+      <LastWriteTime>2024-04-15T19:10:53.5357211Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
-      <Name>Package1.dtsx</Name>
-      <LastWriteTime>2024-04-15T02:43:21.1538374Z</LastWriteTime>
+      <Name>cargardimproducto.dtsx</Name>
+      <LastWriteTime>2024-04-15T18:53:18.8172165Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>cargarDimProveedor.dtsx</Name>
+      <LastWriteTime>2024-04-15T18:53:18.8663037Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>cargardimEmpleado.dtsx</Name>
+      <LastWriteTime>2024-04-15T18:53:18.5863575Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Cargardimtiempo.dtsx</Name>
+      <LastWriteTime>2024-04-15T18:53:18.9113264Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>cargardimhechos.dtsx</Name>
+      <LastWriteTime>2024-04-15T18:53:18.7692164Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>cargamaster.dtsx</Name>
+      <LastWriteTime>2024-04-15T18:53:18.9276816Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
